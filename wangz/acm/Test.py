@@ -1,2 +1,2 @@
 # encoding:utf-8
-print "a"
+print max([1,2],3)
